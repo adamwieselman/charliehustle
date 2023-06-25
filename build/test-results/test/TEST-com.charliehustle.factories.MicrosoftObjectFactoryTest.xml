@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.factories.MicrosoftObjectFactoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:01" hostname="DESKTOP-QU17FRF" time="2.006">
+  <properties/>
+  <testcase name="testCreateAccessDatabaseObject" classname="com.charliehustle.factories.MicrosoftObjectFactoryTest" time="0.369"/>
+  <testcase name="testCreateXSSFWorkbook" classname="com.charliehustle.factories.MicrosoftObjectFactoryTest" time="1.38"/>
+  <testcase name="testCreateXSSFSheet" classname="com.charliehustle.factories.MicrosoftObjectFactoryTest" time="0.257"/>
+  <system-out><![CDATA[14:39:02.335 [Test worker] DEBUG com.healthmarketscience.jackcess.impl.DatabaseImpl - Finished reading system catalog.  Tables: [BattersSavant, MatchupTable, PitchersSavant, Rosters, RostersAuto, RosterSuperAuto, RosterSuperAuto2022] (Db=New Baseball Rankings.accdb)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

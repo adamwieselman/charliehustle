@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" tests="16" skipped="16" failures="0" errors="0" timestamp="2023-06-14T19:39:03" hostname="DESKTOP-QU17FRF" time="0.002">
+  <properties/>
+  <testcase name="testReadValue_ncaaPlayByPlay" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_ncaaBoxscore" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="textReadValue_UFCIndivFight" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_ncaaScoreboard" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBreakingDownNFLPlays" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_wnbaPlayByPlay" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="textReadValue_UFCFightNight" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_wnbaScoreboard" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_nbaPlayByPlay" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_ncaaFootballPlayByPlay" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_nbaScoreboard" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_ncaaFootballScoreboard" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="textReadValue_baseballEverything" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_nflFootballScoreboard" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_baseballScoreboard" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReadValue_nflPlayByPlay" classname="com.charliehustle.mappers.JsonMapperNcaaScoreboardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.mappers.JsonMapperTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:03" hostname="DESKTOP-QU17FRF" time="1.174">
+  <properties/>
+  <testcase name="testSerialize_throwsException_shouldThrowRuntimeException" classname="com.charliehustle.mappers.JsonMapperTest" time="1.107"/>
+  <testcase name="testWriteValue" classname="com.charliehustle.mappers.JsonMapperTest" time="0.002"/>
+  <testcase name="testDeserialize_goodJson_shouldReturnGoodObjects" classname="com.charliehustle.mappers.JsonMapperTest" time="0.056"/>
+  <testcase name="testSerialize_nullClass_shouldReturnNullString" classname="com.charliehustle.mappers.JsonMapperTest" time="0.0"/>
+  <testcase name="testReadValue" classname="com.charliehustle.mappers.JsonMapperTest" time="0.002"/>
+  <testcase name="testSerialize" classname="com.charliehustle.mappers.JsonMapperTest" time="0.001"/>
+  <testcase name="testReadValueWithLists" classname="com.charliehustle.mappers.JsonMapperTest" time="0.002"/>
+  <testcase name="testDeserialize_badJson_shouldThrowIOException" classname="com.charliehustle.mappers.JsonMapperTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

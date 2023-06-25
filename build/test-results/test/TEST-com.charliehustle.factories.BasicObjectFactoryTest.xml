@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.factories.BasicObjectFactoryTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:01" hostname="DESKTOP-QU17FRF" time="0.274">
+  <properties/>
+  <testcase name="testCreateGameDataInfo" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.004"/>
+  <testcase name="testCreateConferenceTeam" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateTeamVenue" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateKeyObjectMap" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.0"/>
+  <testcase name="testCreateDatabaseRowMap" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateVenue" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateKeyValueMap" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.0"/>
+  <testcase name="testCreateGameDataInfoTeam" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateFile" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateTeam" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateJsonMapper" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.26"/>
+  <testcase name="testCreateBaseballPlayerList" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.0"/>
+  <testcase name="testCreateGameStatus" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.0"/>
+  <testcase name="testCreateConference" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateFileInputStream" classname="com.charliehustle.factories.BasicObjectFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

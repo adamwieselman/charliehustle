@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:06" hostname="DESKTOP-QU17FRF" time="0.631">
+  <properties/>
+  <testcase name="testSetupRosterMaps_alt" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.589"/>
+  <testcase name="testAddCbsData_playerFoundRegular" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.006"/>
+  <testcase name="testAddCbsData_skipRow_nonPlayerRow" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.008"/>
+  <testcase name="testAddFanGraphsData_add" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.005"/>
+  <testcase name="testSetupRosterMaps_noAlt" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.005"/>
+  <testcase name="testAddCbsData_playerFoundAlt" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.005"/>
+  <testcase name="testAddCbsData_skipRow_playerNotFound" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.005"/>
+  <testcase name="testAddCbsData_playerNotFound" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.004"/>
+  <testcase name="testAddFanGraphsData_update" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceTest" time="0.004"/>
+  <system-out><![CDATA[Prepping access db rows
+[MockitoHint] BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_alt (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_alt(BaseballPlayerDataUpdateServiceTest.java:109)
+
+updating db with excel data
+adding complete
+updating db with excel data
+adding complete
+[MockitoHint] BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:292)
+[MockitoHint] 2. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:293)
+[MockitoHint] 3. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:294)
+[MockitoHint] 4. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:295)
+[MockitoHint] 5. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:296)
+
+Adding fangraphs data to db
+Prepping access db rows
+[MockitoHint] BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_noAlt (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_noAlt(BaseballPlayerDataUpdateServiceTest.java:93)
+
+updating db with excel data
+updating row from alt player
+adding complete
+updating db with excel data
+adding complete
+[MockitoHint] BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound(BaseballPlayerDataUpdateServiceTest.java:264)
+[MockitoHint] 2. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound(BaseballPlayerDataUpdateServiceTest.java:265)
+[MockitoHint] 3. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound(BaseballPlayerDataUpdateServiceTest.java:266)
+
+updating db with excel data
+adding complete
+Adding fangraphs data to db
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

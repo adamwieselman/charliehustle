@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.factories.JsonObjectFactoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:01" hostname="DESKTOP-QU17FRF" time="0.007">
+  <properties/>
+  <testcase name="testCreateJSONObject_incompleteBracket_throwsException" classname="com.charliehustle.factories.JsonObjectFactoryTest" time="0.005"/>
+  <testcase name="testCreateJSONObject_successful" classname="com.charliehustle.factories.JsonObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateJSONObject_null_throwsException" classname="com.charliehustle.factories.JsonObjectFactoryTest" time="0.001"/>
+  <testcase name="testCreateJSONObject_noBrackets_throwsException" classname="com.charliehustle.factories.JsonObjectFactoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

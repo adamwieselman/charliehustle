@@ -1,0 +1,125 @@
+y[MockitoHint] DataUpdateControllerTest.testUpdateDataFromBeginningInitialRequestHasErrors (see javadoc for MockitoHint):
+ª[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromBeginningInitialRequestHasErrors(DataUpdateControllerTest.java:80)
+
+t[MockitoHint] DataUpdateControllerTest.testUpdateDataFromYearInitialRequestHasErrors (see javadoc for MockitoHint):
+¦[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromYearInitialRequestHasErrors(DataUpdateControllerTest.java:122)
+
+t[MockitoHint] DataUpdateControllerTest.testUpdateDataFromDateInitialRequestHasErrors (see javadoc for MockitoHint):
+¦[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromDateInitialRequestHasErrors(DataUpdateControllerTest.java:208)
+
+{[MockitoHint] DataUpdateControllerTest.testUpdateDataFromYearAndWeekInitialRequestHasErrors (see javadoc for MockitoHint):
+­[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromYearAndWeekInitialRequestHasErrors(DataUpdateControllerTest.java:165)
+
+*)Œ14:39:02.335 [Test worker] DEBUG com.healthmarketscience.jackcess.impl.DatabaseImpl - Finished reading system catalog.  Tables: [BattersSavant, MatchupTable, PitchersSavant, Rosters, RostersAuto, RosterSuperAuto, RosterSuperAuto2022] (Db=New Baseball Rankings.accdb)
+VU*Game info already exists - skipping game
+VZo[MockitoHint] NbaGameDataJsonHandlerTest.testProcessGameDataInfo_contestIsFinal (see javadoc for MockitoHint):
+VZ¢[MockitoHint] 1. Unused -> at com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest.testProcessGameDataInfo_contestIsFinal(NbaGameDataJsonHandlerTest.java:155)
+VZ
+ghe[MockitoHint] NbaTeamJsonHandlerTest.testProcessTeamInfo_teamNotFound (see javadoc for MockitoHint):
+gh“[MockitoHint] 1. Unused -> at com.charliehustle.misfittoys.NbaTeamJsonHandlerTest.testProcessTeamInfo_teamNotFound(NbaTeamJsonHandlerTest.java:70)
+gh
+†‡playerName value here
+†‡J[MockitoHint] AccessServiceTest.testAddRow (see javadoc for MockitoHint):
+†‡q[MockitoHint] 1. Unused -> at com.charliehustle.services.AccessServiceTest.testAddRow(AccessServiceTest.java:49)
+†‡
+‰ˆ9adding 1 group of players from fangraphs to master list
+‰ˆ9adding 2 group of players from fangraphs to master list
+‰ˆ9adding 3 group of players from fangraphs to master list
+‰ˆ9adding 4 group of players from fangraphs to master list
+‰ˆ9adding 5 group of players from fangraphs to master list
+‰ˆ9adding 6 group of players from fangraphs to master list
+‰ˆ9adding 7 group of players from fangraphs to master list
+‰ˆ9adding 8 group of players from fangraphs to master list
+‰ˆ9adding 9 group of players from fangraphs to master list
+‰ˆ:adding 10 group of players from fangraphs to master list
+‰ˆ:adding 11 group of players from fangraphs to master list
+‰ˆ:adding 12 group of players from fangraphs to master list
+‰ˆ:adding 13 group of players from fangraphs to master list
+‰ˆ:adding 14 group of players from fangraphs to master list
+‰ˆ:adding 15 group of players from fangraphs to master list
+‰ˆ:adding 16 group of players from fangraphs to master list
+‰ˆ:adding 17 group of players from fangraphs to master list
+‰ˆ:adding 18 group of players from fangraphs to master list
+‰ˆ:adding 19 group of players from fangraphs to master list
+‰ˆ:adding 20 group of players from fangraphs to master list
+‰ˆ:adding 21 group of players from fangraphs to master list
+‰ˆ:adding 22 group of players from fangraphs to master list
+‰ˆ:adding 23 group of players from fangraphs to master list
+‰ˆ:adding 24 group of players from fangraphs to master list
+‰ˆ:adding 25 group of players from fangraphs to master list
+‰ˆ:adding 26 group of players from fangraphs to master list
+‰ˆ:adding 27 group of players from fangraphs to master list
+‰ˆ:adding 28 group of players from fangraphs to master list
+‰ˆ:adding 29 group of players from fangraphs to master list
+‰ˆ:adding 30 group of players from fangraphs to master list
+‰Š9adding 1 group of players from fangraphs to master list
+‰Š9adding 2 group of players from fangraphs to master list
+‰Š9adding 3 group of players from fangraphs to master list
+‰Š9adding 4 group of players from fangraphs to master list
+‰Š9adding 5 group of players from fangraphs to master list
+‰Š9adding 6 group of players from fangraphs to master list
+‰Š9adding 7 group of players from fangraphs to master list
+‰Š9adding 8 group of players from fangraphs to master list
+‰Š9adding 9 group of players from fangraphs to master list
+‰Š:adding 10 group of players from fangraphs to master list
+‰Š:adding 11 group of players from fangraphs to master list
+‰Š:adding 12 group of players from fangraphs to master list
+‰Š:adding 13 group of players from fangraphs to master list
+‰Š:adding 14 group of players from fangraphs to master list
+‰Š:adding 15 group of players from fangraphs to master list
+‰Š:adding 16 group of players from fangraphs to master list
+‰Š:adding 17 group of players from fangraphs to master list
+‰Š:adding 18 group of players from fangraphs to master list
+‰Š:adding 19 group of players from fangraphs to master list
+‰Š:adding 20 group of players from fangraphs to master list
+‰Š:adding 21 group of players from fangraphs to master list
+‰Š:adding 22 group of players from fangraphs to master list
+‰Š:adding 23 group of players from fangraphs to master list
+‰Š:adding 24 group of players from fangraphs to master list
+‰Š:adding 25 group of players from fangraphs to master list
+‰Š:adding 26 group of players from fangraphs to master list
+‰Š:adding 27 group of players from fangraphs to master list
+‰Š:adding 28 group of players from fangraphs to master list
+‰Š:adding 29 group of players from fangraphs to master list
+‰Š:adding 30 group of players from fangraphs to master list
+ŒŽj[MockitoHint] BaseballPlayerDataUpdateServiceHelperTest.testUpdatePrice_ZZ (see javadoc for MockitoHint):
+ŒŽª[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest.testUpdatePrice_ZZ(BaseballPlayerDataUpdateServiceHelperTest.java:387)
+ŒŽ
+Œ‘m[MockitoHint] BaseballPlayerDataUpdateServiceHelperTest.testUpdateContract_ZZ (see javadoc for MockitoHint):
+Œ‘­[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest.testUpdateContract_ZZ(BaseballPlayerDataUpdateServiceHelperTest.java:403)
+Œ‘
+žPrepping access db rows
+ži[MockitoHint] BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_alt (see javadoc for MockitoHint):
+ž£[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_alt(BaseballPlayerDataUpdateServiceTest.java:109)
+ž
+žŸupdating db with excel data
+žŸadding complete
+ž updating db with excel data
+ž adding complete
+ž u[MockitoHint] BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow (see javadoc for MockitoHint):
+ž ¯[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:292)
+ž ¯[MockitoHint] 2. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:293)
+ž ¯[MockitoHint] 3. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:294)
+ž ¯[MockitoHint] 4. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:295)
+ž ¯[MockitoHint] 5. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_nonPlayerRow(BaseballPlayerDataUpdateServiceTest.java:296)
+ž 
+ž¡Adding fangraphs data to db
+ž¢Prepping access db rows
+ž¢k[MockitoHint] BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_noAlt (see javadoc for MockitoHint):
+ž¢¤[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testSetupRosterMaps_noAlt(BaseballPlayerDataUpdateServiceTest.java:93)
+ž¢
+ž£updating db with excel data
+ž£updating row from alt player
+ž£adding complete
+ž¤updating db with excel data
+ž¤adding complete
+ž¤w[MockitoHint] BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound (see javadoc for MockitoHint):
+ž¤±[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound(BaseballPlayerDataUpdateServiceTest.java:264)
+ž¤±[MockitoHint] 2. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound(BaseballPlayerDataUpdateServiceTest.java:265)
+ž¤±[MockitoHint] 3. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceTest.testAddCbsData_skipRow_playerNotFound(BaseballPlayerDataUpdateServiceTest.java:266)
+ž¤
+ž¥updating db with excel data
+ž¥adding complete
+ž¦Adding fangraphs data to db
+®­…14:39:07.386 [Test worker] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+®­~14:39:07.387 [Test worker] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down

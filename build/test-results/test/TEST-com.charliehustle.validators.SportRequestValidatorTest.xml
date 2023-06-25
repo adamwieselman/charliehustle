@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.validators.SportRequestValidatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:07" hostname="DESKTOP-QU17FRF" time="0.013">
+  <properties/>
+  <testcase name="testValidate_supports_false" classname="com.charliehustle.validators.SportRequestValidatorTest" time="0.001"/>
+  <testcase name="testValidate_supports_true" classname="com.charliehustle.validators.SportRequestValidatorTest" time="0.001"/>
+  <testcase name="testValidate_sportFieldIsNull_addError" classname="com.charliehustle.validators.SportRequestValidatorTest" time="0.008"/>
+  <testcase name="testValidate_sportFieldIsLegitSport_noError" classname="com.charliehustle.validators.SportRequestValidatorTest" time="0.001"/>
+  <testcase name="testValidate_sportFieldIsNotLegitSport_addError" classname="com.charliehustle.validators.SportRequestValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

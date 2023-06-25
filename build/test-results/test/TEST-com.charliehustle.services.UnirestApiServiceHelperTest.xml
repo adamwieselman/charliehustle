@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.services.UnirestApiServiceHelperTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:06" hostname="DESKTOP-QU17FRF" time="0.012">
+  <properties/>
+  <testcase name="testGenerateGetRequest_queryStringData_moreThan1thing_returnGetRequest" classname="com.charliehustle.services.UnirestApiServiceHelperTest" time="0.01"/>
+  <testcase name="testGenerateGetRequest_url_returnGetRequest" classname="com.charliehustle.services.UnirestApiServiceHelperTest" time="0.001"/>
+  <testcase name="testGenerateGetRequest_queryStringData_1thing_returnGetRequest" classname="com.charliehustle.services.UnirestApiServiceHelperTest" time="0.0"/>
+  <testcase name="testGenerateGetRequest_noUrl_returnNull" classname="com.charliehustle.services.UnirestApiServiceHelperTest" time="0.0"/>
+  <testcase name="testGenerateGetRequest_headerData_returnGetRequest" classname="com.charliehustle.services.UnirestApiServiceHelperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

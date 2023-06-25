@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.controllers.DataUpdateControllerTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:00" hostname="DESKTOP-QU17FRF" time="1.235">
+  <properties/>
+  <testcase name="testUpdateDataFromDateBasicPath" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="1.173"/>
+  <testcase name="testUpdateDataFromYearBasicPath" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.004"/>
+  <testcase name="testUpdateDataFromYearCompletedRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.005"/>
+  <testcase name="testUpdateDataFromDateCompletedRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.003"/>
+  <testcase name="testUpdateDataFromBeginningInitialRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.018"/>
+  <testcase name="testUpdateDataFromYearInitialRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.006"/>
+  <testcase name="testUpdateDataFromYearAndWeekCompletedRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.003"/>
+  <testcase name="testUpdateDataFromBeginningBasicPath" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.003"/>
+  <testcase name="testUpdateDataFromBeginningCompletedRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.004"/>
+  <testcase name="testUpdateDataFromYearAndWeekBasicPath" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.002"/>
+  <testcase name="testUpdateDataFromDateInitialRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.006"/>
+  <testcase name="testUpdateDataFromYearAndWeekInitialRequestHasErrors" classname="com.charliehustle.controllers.DataUpdateControllerTest" time="0.005"/>
+  <system-out><![CDATA[[MockitoHint] DataUpdateControllerTest.testUpdateDataFromBeginningInitialRequestHasErrors (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromBeginningInitialRequestHasErrors(DataUpdateControllerTest.java:80)
+
+[MockitoHint] DataUpdateControllerTest.testUpdateDataFromYearInitialRequestHasErrors (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromYearInitialRequestHasErrors(DataUpdateControllerTest.java:122)
+
+[MockitoHint] DataUpdateControllerTest.testUpdateDataFromDateInitialRequestHasErrors (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromDateInitialRequestHasErrors(DataUpdateControllerTest.java:208)
+
+[MockitoHint] DataUpdateControllerTest.testUpdateDataFromYearAndWeekInitialRequestHasErrors (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.controllers.DataUpdateControllerTest.testUpdateDataFromYearAndWeekInitialRequestHasErrors(DataUpdateControllerTest.java:165)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

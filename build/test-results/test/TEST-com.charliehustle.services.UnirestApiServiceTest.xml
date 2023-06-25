@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.services.UnirestApiServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:06" hostname="DESKTOP-QU17FRF" time="0.565">
+  <properties/>
+  <testcase name="testShutdownUnirest" classname="com.charliehustle.services.UnirestApiServiceTest" time="0.56"/>
+  <testcase name="testGetWebsiteDataObject_getRequestNull_returnNull" classname="com.charliehustle.services.UnirestApiServiceTest" time="0.002"/>
+  <testcase name="testGetWebsiteDataString_getRequestHasUrl_returnValue" classname="com.charliehustle.services.UnirestApiServiceTest" time="0.001"/>
+  <testcase name="testGetWebsiteDataObject_getRequestHasUrl_returnValue" classname="com.charliehustle.services.UnirestApiServiceTest" time="0.002"/>
+  <testcase name="testGetWebsiteDataString_getRequestNull_returnNull" classname="com.charliehustle.services.UnirestApiServiceTest" time="0.0"/>
+  <system-out><![CDATA[14:39:07.386 [Test worker] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+14:39:07.387 [Test worker] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

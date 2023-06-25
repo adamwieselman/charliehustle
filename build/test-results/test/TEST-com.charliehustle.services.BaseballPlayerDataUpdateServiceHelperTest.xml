@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:06" hostname="DESKTOP-QU17FRF" time="0.084">
+  <properties/>
+  <testcase name="testGetPlayerName_nonCatcher_returnName" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.028"/>
+  <testcase name="testUpdatePrice_Owner" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.002"/>
+  <testcase name="testUpdatePrice_ZZ" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.002"/>
+  <testcase name="testPlayerDataUpdateMapInitialSetup" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.034"/>
+  <testcase name="testUpdateOP_other_willReturnO" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.001"/>
+  <testcase name="testUpdateContract_ZZ" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.002"/>
+  <testcase name="testUpdateRole" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.001"/>
+  <testcase name="testUpdateTeam" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.001"/>
+  <testcase name="testUpdateOP_SP_willReturnP" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.001"/>
+  <testcase name="testGetPlayerName_Catcher_returnName" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.001"/>
+  <testcase name="testUpdateOwner_Waivered" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.001"/>
+  <testcase name="testUpdatePosition" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.0"/>
+  <testcase name="testUpdateOP_RP_willReturnP" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.0"/>
+  <testcase name="testUpdateOwner_Value" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.0"/>
+  <testcase name="testGetPlayerName_Null_returnNull" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.0"/>
+  <testcase name="testUpdateContract_Numeric" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.003"/>
+  <testcase name="testUpdateContract_String" classname="com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest" time="0.002"/>
+  <system-out><![CDATA[[MockitoHint] BaseballPlayerDataUpdateServiceHelperTest.testUpdatePrice_ZZ (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest.testUpdatePrice_ZZ(BaseballPlayerDataUpdateServiceHelperTest.java:387)
+
+[MockitoHint] BaseballPlayerDataUpdateServiceHelperTest.testUpdateContract_ZZ (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.services.BaseballPlayerDataUpdateServiceHelperTest.testUpdateContract_ZZ(BaseballPlayerDataUpdateServiceHelperTest.java:403)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

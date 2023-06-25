@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.services.BaseballPlayerDataRetrievalServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:06" hostname="DESKTOP-QU17FRF" time="0.032">
+  <properties/>
+  <testcase name="testGetRosterResourceBaseballPlayerData" classname="com.charliehustle.services.BaseballPlayerDataRetrievalServiceTest" time="0.021"/>
+  <testcase name="testGetRosterResourceBaseballPlayerDataList" classname="com.charliehustle.services.BaseballPlayerDataRetrievalServiceTest" time="0.011"/>
+  <system-out><![CDATA[adding 1 group of players from fangraphs to master list
+adding 2 group of players from fangraphs to master list
+adding 3 group of players from fangraphs to master list
+adding 4 group of players from fangraphs to master list
+adding 5 group of players from fangraphs to master list
+adding 6 group of players from fangraphs to master list
+adding 7 group of players from fangraphs to master list
+adding 8 group of players from fangraphs to master list
+adding 9 group of players from fangraphs to master list
+adding 10 group of players from fangraphs to master list
+adding 11 group of players from fangraphs to master list
+adding 12 group of players from fangraphs to master list
+adding 13 group of players from fangraphs to master list
+adding 14 group of players from fangraphs to master list
+adding 15 group of players from fangraphs to master list
+adding 16 group of players from fangraphs to master list
+adding 17 group of players from fangraphs to master list
+adding 18 group of players from fangraphs to master list
+adding 19 group of players from fangraphs to master list
+adding 20 group of players from fangraphs to master list
+adding 21 group of players from fangraphs to master list
+adding 22 group of players from fangraphs to master list
+adding 23 group of players from fangraphs to master list
+adding 24 group of players from fangraphs to master list
+adding 25 group of players from fangraphs to master list
+adding 26 group of players from fangraphs to master list
+adding 27 group of players from fangraphs to master list
+adding 28 group of players from fangraphs to master list
+adding 29 group of players from fangraphs to master list
+adding 30 group of players from fangraphs to master list
+adding 1 group of players from fangraphs to master list
+adding 2 group of players from fangraphs to master list
+adding 3 group of players from fangraphs to master list
+adding 4 group of players from fangraphs to master list
+adding 5 group of players from fangraphs to master list
+adding 6 group of players from fangraphs to master list
+adding 7 group of players from fangraphs to master list
+adding 8 group of players from fangraphs to master list
+adding 9 group of players from fangraphs to master list
+adding 10 group of players from fangraphs to master list
+adding 11 group of players from fangraphs to master list
+adding 12 group of players from fangraphs to master list
+adding 13 group of players from fangraphs to master list
+adding 14 group of players from fangraphs to master list
+adding 15 group of players from fangraphs to master list
+adding 16 group of players from fangraphs to master list
+adding 17 group of players from fangraphs to master list
+adding 18 group of players from fangraphs to master list
+adding 19 group of players from fangraphs to master list
+adding 20 group of players from fangraphs to master list
+adding 21 group of players from fangraphs to master list
+adding 22 group of players from fangraphs to master list
+adding 23 group of players from fangraphs to master list
+adding 24 group of players from fangraphs to master list
+adding 25 group of players from fangraphs to master list
+adding 26 group of players from fangraphs to master list
+adding 27 group of players from fangraphs to master list
+adding 28 group of players from fangraphs to master list
+adding 29 group of players from fangraphs to master list
+adding 30 group of players from fangraphs to master list
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

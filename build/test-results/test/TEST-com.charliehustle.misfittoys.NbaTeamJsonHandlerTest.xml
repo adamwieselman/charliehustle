@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.misfittoys.NbaTeamJsonHandlerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:05" hostname="DESKTOP-QU17FRF" time="0.024">
+  <properties/>
+  <testcase name="testProcessTeamInfo_teamFound" classname="com.charliehustle.misfittoys.NbaTeamJsonHandlerTest" time="0.02"/>
+  <testcase name="testProcessTeamInfo_teamNotFound" classname="com.charliehustle.misfittoys.NbaTeamJsonHandlerTest" time="0.004"/>
+  <system-out><![CDATA[[MockitoHint] NbaTeamJsonHandlerTest.testProcessTeamInfo_teamNotFound (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.misfittoys.NbaTeamJsonHandlerTest.testProcessTeamInfo_teamNotFound(NbaTeamJsonHandlerTest.java:70)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

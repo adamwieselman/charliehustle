@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.misfittoys.ConferenceNbaTeamServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:05" hostname="DESKTOP-QU17FRF" time="0.066">
+  <properties/>
+  <testcase name="testSaveConferenceTeam" classname="com.charliehustle.misfittoys.ConferenceNbaTeamServiceTest" time="0.061"/>
+  <testcase name="testFindByEspnConferenceIdAndEspnTeamIdOrderByStartDate" classname="com.charliehustle.misfittoys.ConferenceNbaTeamServiceTest" time="0.001"/>
+  <testcase name="testFindByEspnTeamIdOrderByStartDate" classname="com.charliehustle.misfittoys.ConferenceNbaTeamServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-14T19:39:05" hostname="DESKTOP-QU17FRF" time="0.087">
+  <properties/>
+  <testcase name="testProcessGameDataInfo_contestIsFinal_GameFound_happyPath" classname="com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest" time="0.07"/>
+  <testcase name="testProcessGameDataInfo_contestIsNotFinal_skipGame" classname="com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest" time="0.004"/>
+  <testcase name="testReturnGameDataInfoRecords_badWebsiteData_shouldThrowException" classname="com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest" time="0.003"/>
+  <testcase name="testReturnGameDataInfoRecords_objectDoesntExist_shouldThrowException" classname="com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest" time="0.003"/>
+  <testcase name="testProcessGameDataInfo_contestIsFinal" classname="com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest" time="0.007"/>
+  <system-out><![CDATA[Game info already exists - skipping game
+[MockitoHint] NbaGameDataJsonHandlerTest.testProcessGameDataInfo_contestIsFinal (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at com.charliehustle.misfittoys.NbaGameDataJsonHandlerTest.testProcessGameDataInfo_contestIsFinal(NbaGameDataJsonHandlerTest.java:155)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
